@@ -4,7 +4,7 @@ Tutorial files and code the EuroPython 2017 tutorial, _A Hands-on Approach to Tu
 Requirements:
 - [The Intel® Distribution for Python\*](https://software.intel.com/en-us/distribution-for-python)
 - Jupyter and Jupyter notebooks
-- Python 3.5.2
+- Python 3.6.2
 - icc or gcc (for use with Cython)
 - NumPy
 - numexpr
