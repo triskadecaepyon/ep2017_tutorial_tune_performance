@@ -9,7 +9,7 @@ Requirements:
 - NumPy
 - numexpr
 - Numba
-- Dask
+- Dask and dask distributed
 - Cython
 - line_profiler
 
